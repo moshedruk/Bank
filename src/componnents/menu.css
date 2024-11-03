@@ -1,0 +1,11 @@
+
+.menu{
+    width: 10%;
+    height: 50%;
+    display: flex;    
+    /* text-align: center; */
+    align-items: center;
+    flex-direction: column;
+    /* background-color: #f7f3f3; */
+    justify-content: space-around;
+}

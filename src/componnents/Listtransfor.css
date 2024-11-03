@@ -1,0 +1,29 @@
+
+.list-item{
+    width: 90%;
+    height: 80vh;
+    background-color: rgb(95, 204, 68);
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+    color: black;    
+}
+.main-list-card {
+    font-size: 22px;
+    margin-top: 2%;
+    width: 50%;
+    height: 10%;
+    border-radius: 30px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    color: rgb(48, 15, 190);
+    background-color: rgb(226, 127, 6);
+    align-items: center;
+    justify-content: space-around;
+    /* justify-content: center; */
+}
+.sum{
+    width: 2%;
+    color: rgb(240, 46, 12);
+}

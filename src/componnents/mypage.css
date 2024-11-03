@@ -1,0 +1,11 @@
+
+.mypage{
+    width: 70%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* background-color: #241e77; */
+    color: rgb(11, 135, 243);
+    /* border: 1px solid black; */
+}

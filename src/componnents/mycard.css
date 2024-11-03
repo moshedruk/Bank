@@ -1,0 +1,23 @@
+
+.main-crad{
+    width: 90%;
+    height: 15%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+    background-color: rgb(224, 26, 26);
+    border-radius: 30px;
+}
+.money{
+    width: 40%;
+    height: 55%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(255, 241, 241);
+    border-radius: 30px;
+}

@@ -1,0 +1,49 @@
+
+.main-home{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;    
+    justify-content: space-around;
+}
+.profile{
+    width: 50%;
+    height: 25%;  
+    color: black;      
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(235, 243, 220);
+    border-radius: 30px;
+    border: 1px solid black;
+}
+.nain-card{
+    width: 80%;
+    height: 15%;
+    color: black;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    /* flex-direction: column; */
+    /* background-color: rgb(255, 255, 255); */
+    border-radius: 30px;
+}
+.money{    
+    border: 1px solid black;
+    
+}
+.moneyinlin{
+    width: 50%;
+    height: 5%;
+    color: black;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(241, 255, 241);
+    border-radius: 30px;
+    border: 1px solid black;
+}

@@ -1,0 +1,11 @@
+.list-bank{    
+    width: 100%;
+    height: 20%;
+    background-color: rgb(224, 68, 172);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border: 1px solid black;
+    
+}
